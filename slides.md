@@ -93,6 +93,7 @@ Find me online:
 - Build evolving infrastructure
 - Understand different scenarios
 - Learn deployment strategies
+- Hands-on building experience
 
 ---
 
@@ -106,7 +107,7 @@ Find me online:
 
 ---
 
-# Workshop Structure
+# Course Structure
 
 ![hello](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFzZXByMXRjZGszZDJydGx2dGxkMnJweWduOXpkd3c5dXFhOGI4MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0IylOPCNkiqOgMyA/giphy.gif)
 
@@ -143,15 +144,6 @@ Find me online:
 
 ---
 
-## Start-Up Phase
-
-- Create repository
-- Create application
-- Create database
-- Create deployment
-
----
-
 ![stage-01](./stage-01-overview.png)
 
 ---
@@ -168,15 +160,6 @@ Find me online:
 - Improve developer experience
 - Create integration solution
 - Create delivery solution
-
----
-
-## Growth Phase
-
-- Create infrastructure automation
-- Create cloud environments
-- Create promotion process
-- Create application observability
 
 ---
 
@@ -199,15 +182,6 @@ Find me online:
 
 ---
 
-## Scale Phase
-
-- Create infrastructure automation
-- Create cloud environments
-- Create promotion process
-- Create application observability
-
----
-
 ![stage-03](./stage-03-overview.png)
 
 ---
@@ -223,6 +197,15 @@ Find me online:
 # Start-Up Phase
 
 ![do-it](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M2ZWg1YXU4bzR0YXd1eDkydWFxY29haDFxcnVuOXFoY2FmNXN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqZ4imFIoljlr5O2sM/giphy.gif)
+
+---
+
+## Start-Up Phase
+
+- Create repository
+- Create application
+- Create database
+- Create deployment
 
 ---
 
@@ -269,6 +252,15 @@ Find me online:
 
 ---
 
+## Growth Phase
+
+- Create infrastructure automation
+- Create cloud environments
+- Create promotion process
+- Create application observability
+
+---
+
 ![stage-02](./stage-02-overview.png)
 
 ---
@@ -311,6 +303,15 @@ Find me online:
 # Scale Phase
 
 ![scale](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR0bzBiOGV1dTlmNW9zNXBteHluZTZsbG1pOWJkN2U2bDg1ZG92cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N2QQfEMAogAEQhJlkw/giphy.gif)
+
+---
+
+## Scale Phase
+
+- Create infrastructure automation
+- Create cloud environments
+- Create promotion process
+- Create application observability
 
 ---
 
