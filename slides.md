@@ -17,7 +17,7 @@ section {
 
 # Fullstack Deployment: From Containers to Production AWS
 
-Gain real-world experience through startup, growth, and scale stages of an application.
+Gain real-world fullstack deployment experience from the startup, growth and scale stages of an application.
 
 ---
 
@@ -29,30 +29,28 @@ Gain real-world experience through startup, growth, and scale stages of an appli
 
 ## Erik Reinert aka "Blackglasses"
 
-- Senior Software Engineer
-- Content Creator (@TheAltF4Stream on Twitch and YouTube)
-- Diagram & Flowchart Artist
-- Habitual Problem Solver
+- Senior software engineer
+- Content creator (@TheAltF4Stream)
+- Diagram & flowchart artist
+- Habitual problem solver
 
 ---
 
-## Erik Reinert aka "Blackglasses"
-
-Find me online:
-
-- Twitch: https://www.twitch.tv/thealtf4stream
-- YouTube: https://www.youtube.com/thealtf4stream
-- Twitter: https://www.x.com/thealtf4stream
-- Blog: https://altf4.blog
-
----
-
-## Experience
+## Work Experience
 
 - Started with frontend (2+ years)
 - Followed curiosity to backend (2+ years)
 - Continued curiosity to fullstack (2+ years)
 - Found passion in DevOps & Platform Engineering (4+ years - current)
+
+---
+
+## I build things on the internet
+
+- Twitch: https://www.twitch.tv/thealtf4stream
+- YouTube: https://www.youtube.com/thealtf4stream
+- Twitter: https://www.x.com/thealtf4stream
+- Blog: https://altf4.blog
 
 ---
 
@@ -66,44 +64,46 @@ Find me online:
 
 ## Introduction to DevOps for Developers
 
-> Take your first steps into DevOps guided from the perspective of a developer! Improve software teams’ ability to build and ship software reliably.
+Take your first steps into DevOps guided from the perspective of a developer! Improve software teams’ ability to build and ship software reliably.
 
 ---
 
 ## Enterprise Cloud Infrastructure
 
-> Learn to set up large-scale systems with GitOps and optimized CI/CD workflows. And see strategies to standardize your organization's approach to AWS resource management and dynamic cloud orchestration.
+Learn to set up large-scale systems with GitOps and optimized CI/CD workflows. And see strategies to standardize your organization's approach to AWS resource management and dynamic cloud orchestration.
 
 ---
 
 ## Introduction to Backend Architectures
 
-> Learn about architectural backend design principles, challenges, real-world applications, while offering a detailed understanding of when and how to implement them.
+Learn about architectural backend design principles, challenges, real-world applications, while offering a detailed understanding of when and how to implement them.
 
 ---
 
-# Introduction to Course
+# Course Introduction
 
 ![welcome](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21yOTZrcHhtcHZzdm40ZjZvc2Eyczd4N3BrZWFkbTUxcGliNGJuNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 
 ---
 
-## Goals in this course are
+## Goals in this course
 
-- Build evolving infrastructure
-- Understand different scenarios
-- Learn deployment strategies
-- Hands-on building experience
+- Manage growing infrastructure
+- Learn when to make changes
+- Balance pros and cons of solutions
+- Improve hands-on experience
 
 ---
 
-## Are there pre-requisites for this course?
+## Pre-requisites for this course
 
 - Fundamental knowledge of Docker
 - Experience using Git and GitHub
 - Basic understanding of AWS
-- Command-line experience
-- Active AWS account with admin privileges
+- Command-line and scripting experience
+- AWS account with admin privileges
+- GCP account with project
+- Supabase account with free plan
 
 ---
 
@@ -115,17 +115,17 @@ Find me online:
 
 ## Separate Phases
 
-- Focus on unique solution
-- Determine impactful goals
-- Provide valuable takeaways
+- Each focuses on unique scenarios
+- Each implements unique solutions
+- Each provides valuable takeaways
 
 ---
 
-## Separate Phases
+## Three Phases
 
-1. Start-Up
-2. Growth
-3. Scale
+- Start-Up Phase
+- Growth Phase
+- Scale Phase
 
 ---
 
@@ -135,35 +135,9 @@ Find me online:
 
 ---
 
-## Start-Up Phase
-
-- We have source code managed by a development team
-- We need quickest deployment with minimal effort required
-- We are looking for biggest wins with minimal required to setup
-- We are learning about what needs to be maintained
-
----
-
-![stage-01](./stage-01-overview.png)
-
----
-
 ## Growth Phase
 
 > "We gotta go fast!"
-
----
-
-## Growth Phase
-
-- Improve data reliability
-- Improve developer experience
-- Create integration solution
-- Create delivery solution
-
----
-
-![stage-02](./stage-02-overview.png)
 
 ---
 
@@ -173,39 +147,55 @@ Find me online:
 
 ---
 
-## Scale Phase
+## Final Branches
 
-- We want to support multiple teams
-- We want minimal deployment friction
-- We want longterm architected solutions
-- We have “some” money to spend
-
----
-
-![stage-03](./stage-03-overview.png)
+- Start-Up
+  - https://github.com/ALT-F4-LLC/fem-fd-service/tree/stage-01-start-up
+- Growth
+  - https://github.com/ALT-F4-LLC/fem-fd-service/tree/stage-02-growth
+- Scale
+  - https://github.com/ALT-F4-LLC/fem-fd-service/tree/stage-03-scale
 
 ---
 
-## Separate Phases
+## Working Branch
 
-- Start-Up: https://github.com/ALT-F4-LLC/fem-fd-service/tree/stage-01-start-up
-- Growth: https://github.com/ALT-F4-LLC/fem-fd-service/tree/stage-02-growth
-- Scale: https://github.com/ALT-F4-LLC/fem-fd-service/tree/stage-03-scale
-
----
-
-# Start-Up Phase
-
-![do-it](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2M2ZWg1YXU4bzR0YXd1eDkydWFxY29haDFxcnVuOXFoY2FmNXN3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UqZ4imFIoljlr5O2sM/giphy.gif)
+- Workshop
+  - https://github.com/ALT-F4-LLC/fem-fd-service/tree/workshop
 
 ---
 
 ## Start-Up Phase
 
-- Create repository
-- Create application
-- Create database
-- Create deployment
+> "Just get it working!"
+
+---
+
+## Phase Scenario
+
+- We have source code managed by a development team
+- We need quickest deployment with minimal effort required
+- We are looking for biggest wins with minimal required to setup
+- We are learning about what needs to be maintained
+
+---
+
+## Phase Goals
+
+- Create repository to store source code
+- Create database deployment for production
+- Create application deployment for production
+
+---
+
+## Phase Requirements
+
+- Setup Docker latest version
+- Setup Go latest version
+- Setup GitHub account
+- Setup GCP account
+- Setup AWS account, CLI & credentials
+- Setup Supabase account
 
 ---
 
@@ -217,15 +207,15 @@ Find me online:
 
 ---
 
-## Changes
+## Phase Changes
 
 - added only one file to our repository (Dockerfile)
-- all other changes are done in the cloud
-- relies on vendor-based solutions
+- all other changes done in the cloud
+- heavily dependent on vendor-based solutions
 
 ---
 
-## Pros
+## Phase Pros
 
 - turn-key environment
     - 99% of the work is in the browser
@@ -237,27 +227,47 @@ Find me online:
 
 ---
 
-## Cons
+## Phase Cons
 
 - no reproducibility
 - no extensibility
 - no automation
-- multiple vendor lock-in (AWS, Supabase)
-
----
-
-# Growth Phase
-
-![growth](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdlMXk1dDBsNWt2amdycXU3NXB3cHJwc2t3OTRsY3hzZ21la3oyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dIxkmtCuuBQuM9Ux1E/giphy.gif)
+- multiple vendor lock-ins (AWS, Supabase)
 
 ---
 
 ## Growth Phase
 
-- Create infrastructure automation
-- Create cloud environments
-- Create promotion process
-- Create application observability
+> "We gotta go fast!"
+
+---
+
+## Phase Scenario
+
+- We are shipping code to production
+- We have no integration process
+- We have no delivery process
+- We don’t want to replace anything
+
+---
+
+## Phase Goals
+
+- We need to improve data reliability
+- We need to improve developer experience
+- We need to create integration solution
+- We need to create delivery solution
+
+---
+
+## Phase Requirements
+
+- Setup Docker latest version
+- Setup Go latest version
+- Setup GitHub account
+- Setup GCP account
+- Setup AWS account, CLI & credentials
+- Setup Supabase account
 
 ---
 
@@ -269,7 +279,7 @@ Find me online:
 
 ---
 
-## Changes
+## Phase Changes
 
 - added database migrations for schema changes
 - added makefile for developers and automation
@@ -281,7 +291,7 @@ Find me online:
 
 ---
 
-## Pros
+## Phase Pros
 
 - no impactful changes were made
 - improved schema management
@@ -291,7 +301,7 @@ Find me online:
 
 ---
 
-## Cons
+## Phase Cons
 
 - no infrastructure management
 - no staging environment
@@ -300,18 +310,37 @@ Find me online:
 
 ---
 
-# Scale Phase
+## Scale Phase
 
-![scale](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR0bzBiOGV1dTlmNW9zNXBteHluZTZsbG1pOWJkN2U2bDg1ZG92cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N2QQfEMAogAEQhJlkw/giphy.gif)
+> "Plan for the future!"
 
 ---
 
-## Scale Phase
+## Phase Scenario
+
+- We want to support multiple teams
+- We want minimal deployment friction
+- We want longterm architected solutions
+- We have “some” money to spend
+
+---
+
+## Phase Goals
 
 - Create infrastructure automation
 - Create cloud environments
 - Create promotion process
 - Create application observability
+
+---
+
+## Phase Requirements
+
+- Setup Docker latest version
+- Setup Go latest version
+- Setup GitHub account
+- Setup GCP account
+- Setup AWS account, CLI & credentials
 
 ---
 
@@ -323,7 +352,7 @@ Find me online:
 
 ---
 
-## Changes
+## Phase Changes
 
 - added state with bucket
 - added network, database, cluster and service
@@ -334,7 +363,7 @@ Find me online:
 
 ---
 
-## Pros
+## Phase Pros
 
 - automates cloud management
 - consolidates cloud resources
@@ -343,7 +372,7 @@ Find me online:
 
 ---
 
-## Cons
+## Phase Cons
 
 - requires a team to manage
 - requires custom solutions
@@ -360,28 +389,30 @@ Find me online:
 
 ## What did we do?
 
-- proposed different unique scenarios
-- implemented fitting solutions
-- iterated over existing solutions
-- adapted to future scenarios
+- proposed different scenarios
+- evaulated multiple solutions
+- iterated over existing changes
+- adapted for future scenarios
 
 ---
 
 ## What did we learn?
 
 - how to approach different scenarios
-- how to grow with evolving source code
-- how to manage evolving infrastructure
-- how to create deployment strategies
+- how to make impactful decisions
+- how to manage growing infrastructure
+- how to maintain deployment strategies
 
 ---
 
-##  Thanks for hanging out
+##  Thanks for watching
 
 ---
 
-##  Find me online
+## I build things on the internet
 
+- Github (personal): https://github.com/erikreinert
+- Github (company): https://github.com/ALT-F4-LLC
 - Twitch: https://www.twitch.tv/thealtf4stream
 - YouTube: https://www.youtube.com/thealtf4stream
 - Twitter: https://www.x.com/thealtf4stream
